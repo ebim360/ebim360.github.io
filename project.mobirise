@@ -40,8 +40,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "eBIM360",
+        "meta_descr": "Managed Cloud Platform for AEC",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
